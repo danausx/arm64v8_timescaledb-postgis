@@ -17,3 +17,6 @@ Full SQL interface for all SQL natively supported by PostgreSQL (including secon
 - Connects to any client or tool that speaks PostgreSQL, no changes needed.
 - Time-oriented features, API functions, and optimizations.
 - Robust support for Data retention policies.
+
+## Docker Hub
+If you don't want to wait the ~4h it takes to build this on a rpi you can download the image from [docker hub](https://hub.docker.com/r/thobi85/timescale-postgis/general/).
