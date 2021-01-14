@@ -20,3 +20,6 @@ Full SQL interface for all SQL natively supported by PostgreSQL (including secon
 
 ## Docker Hub
 If you don't want to wait the ~4h it takes to build this on a rpi you can download the image from [docker hub](https://hub.docker.com/r/thobi85/timescale-postgis/general/).
+
+## Getting Started
+You can find a good Getting Started Guide from Timescaledb with Docker on the [Timscale Documation Page](https://docs.timescale.com/latest/getting-started/installation/docker/installation-docker#react-docs)
