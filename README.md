@@ -1,4 +1,4 @@
-# arm64v8_timescaledb-postgis
+# ARM64v8 timescaledb-postgis
 Linux: ARM64v8 Alpine with Timescaledb 2.0.0 ; Postgis 3.1.0 ; GDAL 3.2.1 ; Postgres 12.5
 
 ## [PostgreSql 12.5](https://www.postgresql.org/) & [Postgis 3.1.0](https://postgis.net/) & [TimescaleDB 2.0.0](https://www.timescale.com/)
