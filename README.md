@@ -2,7 +2,7 @@
 Linux: ARM64v8 Alpine with Timescaledb 2.0.0 ; Postgis 3.1.0 ; GDAL 3.2.1 ; Postgres 12.5
 
 ## [PostgreSql 12.5](https://www.postgresql.org/) & [Postgis 3.1.0](https://postgis.net/) & [TimescaleDB 2.0.0](https://www.timescale.com/)
-
+arm64v8_timescaledb-postgis
 ## TimescaleDB Overview
 
 From: https://docs.timescale.com/latest/introduction
@@ -23,3 +23,7 @@ If you don't want to wait the ~4h it takes to build this on a rpi you can downlo
 
 ## Getting Started
 You can find a good Getting Started Guide from Timescaledb with Docker on the [Timscale Documation Page](https://docs.timescale.com/latest/getting-started/installation/docker/installation-docker#react-docs)
+
+```
+$ docker build -t danaus/arm64v8_timescaledb-postgis .
+```
